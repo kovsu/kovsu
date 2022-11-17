@@ -3,7 +3,7 @@
 👋 **Hola**
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&center=true&vCenter=true&width=435&lines=Thunder+happens+when+it's+raining." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&center=true&vCenter=true&width=465&lines=Thunder+only+happens+when+it's+raining." alt="Typing SVG" /></a>
 </div>
   
 My name is Konv Suu and I'm a front-end developer.
