@@ -14,11 +14,28 @@ My name is Konv Suu and I'm a front-end developer.
 
 ![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,vite,nestjs,figma,scss)
 
+<div>
+  <img alt="parrots" src="./parrots/vueparrot.gif" />
+</div>
+
 🌈 **Github Status** 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kovsu&show_icons=true&theme=tokyonight)
-  
-  
+
+<br/>
+
+<div>
+  <img alt="parrots" src="./parrots/wave1parrot.gif" />
+  <img alt="parrots" src="./parrots/wave2parrot.gif" />
+  <img alt="parrots" src="./parrots/wave3parrot.gif" />
+  <img alt="parrots" src="./parrots/wave4parrot.gif" />
+  <img alt="parrots" src="./parrots/wave5parrot.gif" />
+  <img alt="parrots" src="./parrots/wave6parrot.gif" />
+  <img alt="parrots" src="./parrots/wave7parrot.gif" />
+  <img alt="parrots" src="./parrots/wave8parrot.gif" />
+  <img alt="parrots" src="./parrots/wave9parrot.gif" />
+<div/>
+
 </div>
 
 
