@@ -12,11 +12,11 @@ My name is Konv Suu and I'm a front-end developer.
 
 *Keep studying hard* 
 
-![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,vite,express,figma,scss)
+![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,express,figma,scss)
 
 🗒️ **Currently learning**
 
-![My Skills](https://skillicons.dev/icons?i=rust)
+![My Skills](https://skillicons.dev/icons?i=nuxt,vite)
 
 <div>
   <img alt="parrots" src="./parrots/vueparrot.gif" />
