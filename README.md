@@ -46,4 +46,4 @@ My name is Konv Suu and I'm a front-end developer.
 
 ## Hi, I'm Konv Suu.
 
-I hope that in 2023, I can have contributions on Github every day.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kovsu" alt="vaakian" /></p>
