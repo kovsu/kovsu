@@ -34,6 +34,11 @@ const me = {
 ## 🔔 My Latest GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1439](https://github.com/IDuxFE/idux/pull/1439) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+2. 🗣 Commented on [#1436](https://github.com/IDuxFE/idux/issues/1436) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+3. 🗣 Commented on [#1436](https://github.com/IDuxFE/idux/issues/1436) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+4. 🗣 Commented on [#1433](https://github.com/IDuxFE/idux/issues/1433) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+5. 💪 Opened PR [#1437](https://github.com/IDuxFE/idux/pull/1437) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
 <!--END_SECTION:activity-->
 
 
