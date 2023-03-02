@@ -1,34 +1,4 @@
-<!-- <div align="center">
-  
-👋 **Hola**
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&center=true&vCenter=true&width=465&lines=Thunder+only+happens+when+it's+raining." alt="Typing SVG" /></a>
-</div>
-  
-My name is Konv Suu and I'm a front-end developer.
-
-❤️ **Technologies**
-
-*Keep studying hard* 
-
-![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,express,figma,scss)
-
-🗒️ **Currently learning**
-
-![My Skills](https://skillicons.dev/icons?i=nuxt,vite)
-
-<div>
-  <img alt="parrots" src="./parrots/vueparrot.gif" />
-</div>
-
-🌈 **Github Status** 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kovsu&show_icons=true&theme=tokyonight)
-
-<br/>
-
-<div>
+<p align="center">
   <img alt="parrots" src="./parrots/wave1parrot.gif" />
   <img alt="parrots" src="./parrots/wave2parrot.gif" />
   <img alt="parrots" src="./parrots/wave3parrot.gif" />
@@ -38,12 +8,40 @@ My name is Konv Suu and I'm a front-end developer.
   <img alt="parrots" src="./parrots/wave7parrot.gif" />
   <img alt="parrots" src="./parrots/wave8parrot.gif" />
   <img alt="parrots" src="./parrots/wave9parrot.gif" />
-<div/>
+</p>
 
-</div>
+## 😎 About me...
 
- -->
+```ts
+const me = {
+  name: string = 'Konv Suu';
+  born: number = 2001;
+  pronouns: string[] = ['he', 'him'];
+  location: string = 'Changsha, China';
+  languages: string[] = ['Chinese', 'English'];
+  hobbies: string[] = ['Coding', 'UI Design', 'Gaming'];
+  skills: string[] = ['Vue', 'TypeScript'];
+}
 
-## Hi, I'm Konv Suu.
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kovsu" alt="vaakian" /></p>
+
+## 💕 Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,vite,figma,scss,nuxt)
+
+
+## 🔔 My Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+## 📈 Github Stats
+
+<a href="https://github.com/kovsu/kovsu">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=kovsu&show_icons=true&theme=tokyonight" alt="kovsu's github stats" />
+</a>
+<a href="https://github.com/kovsu/kovsu">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovsu&hide=css,html,scss&theme=tokyonight&langs_count=3" />
+</a>
