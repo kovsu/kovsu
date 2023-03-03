@@ -35,10 +35,10 @@ const me = {
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2837](https://github.com/vueuse/vueuse/issues/2837) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
-2. 💪 Opened PR [#1439](https://github.com/IDuxFE/idux/pull/1439) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-3. 🗣 Commented on [#1436](https://github.com/IDuxFE/idux/issues/1436) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+2. 🗣 Commented on [#2837](https://github.com/vueuse/vueuse/issues/2837) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
+3. 💪 Opened PR [#1439](https://github.com/IDuxFE/idux/pull/1439) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
 4. 🗣 Commented on [#1436](https://github.com/IDuxFE/idux/issues/1436) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-5. 🗣 Commented on [#1433](https://github.com/IDuxFE/idux/issues/1433) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+5. 🗣 Commented on [#1436](https://github.com/IDuxFE/idux/issues/1436) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
 <!--END_SECTION:activity-->
 
 
