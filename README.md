@@ -34,11 +34,11 @@ const me = {
 ## 🔔 My Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1508](https://github.com/IDuxFE/idux/pull/1508) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-2. 💪 Opened PR [#1503](https://github.com/IDuxFE/idux/pull/1503) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-3. 💪 Opened PR [#1499](https://github.com/IDuxFE/idux/pull/1499) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-4. 💪 Opened PR [#1498](https://github.com/IDuxFE/idux/pull/1498) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-5. 🎉 Merged PR [#1](https://github.com/kovsu/ChatGPT-demo/pull/1) in [kovsu/ChatGPT-demo](https://github.com/kovsu/ChatGPT-demo)
+1. 💪 Opened PR [#6382](https://github.com/vueComponent/ant-design-vue/pull/6382) in [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)
+2. 💪 Opened PR [#1508](https://github.com/IDuxFE/idux/pull/1508) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+3. 💪 Opened PR [#1503](https://github.com/IDuxFE/idux/pull/1503) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+4. 💪 Opened PR [#1499](https://github.com/IDuxFE/idux/pull/1499) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+5. 💪 Opened PR [#1498](https://github.com/IDuxFE/idux/pull/1498) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
 <!--END_SECTION:activity-->
 
 
