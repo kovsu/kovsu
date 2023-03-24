@@ -34,11 +34,11 @@ const me = {
 ## 🔔 My Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1511](https://github.com/IDuxFE/idux/pull/1511) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-2. 💪 Opened PR [#6382](https://github.com/vueComponent/ant-design-vue/pull/6382) in [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)
-3. 💪 Opened PR [#1508](https://github.com/IDuxFE/idux/pull/1508) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-4. 💪 Opened PR [#1503](https://github.com/IDuxFE/idux/pull/1503) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-5. 💪 Opened PR [#1499](https://github.com/IDuxFE/idux/pull/1499) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+1. 💪 Opened PR [#1512](https://github.com/IDuxFE/idux/pull/1512) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+2. 💪 Opened PR [#1511](https://github.com/IDuxFE/idux/pull/1511) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+3. 💪 Opened PR [#6382](https://github.com/vueComponent/ant-design-vue/pull/6382) in [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)
+4. 💪 Opened PR [#1508](https://github.com/IDuxFE/idux/pull/1508) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+5. 💪 Opened PR [#1503](https://github.com/IDuxFE/idux/pull/1503) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
 <!--END_SECTION:activity-->
 
 
