@@ -34,11 +34,11 @@ const me = {
 ## 🔔 My Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/IDuxFE/archive/pull/43) in [IDuxFE/archive](https://github.com/IDuxFE/archive)
-2. ❌ Closed PR [#1519](https://github.com/IDuxFE/idux/pull/1519) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-3. 💪 Opened PR [#1520](https://github.com/IDuxFE/idux/pull/1520) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-4. 💪 Opened PR [#1519](https://github.com/IDuxFE/idux/pull/1519) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-5. 💪 Opened PR [#1518](https://github.com/IDuxFE/idux/pull/1518) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+1. 🗣 Commented on [#1540](https://github.com/IDuxFE/idux/issues/1540) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+2. 💪 Opened PR [#43](https://github.com/IDuxFE/archive/pull/43) in [IDuxFE/archive](https://github.com/IDuxFE/archive)
+3. ❌ Closed PR [#1519](https://github.com/IDuxFE/idux/pull/1519) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+4. 💪 Opened PR [#1520](https://github.com/IDuxFE/idux/pull/1520) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+5. 💪 Opened PR [#1519](https://github.com/IDuxFE/idux/pull/1519) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
 <!--END_SECTION:activity-->
 
 
