@@ -34,11 +34,11 @@ const me = {
 ## 🔔 My Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1540](https://github.com/IDuxFE/idux/issues/1540) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-2. 💪 Opened PR [#43](https://github.com/IDuxFE/archive/pull/43) in [IDuxFE/archive](https://github.com/IDuxFE/archive)
-3. ❌ Closed PR [#1519](https://github.com/IDuxFE/idux/pull/1519) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-4. 💪 Opened PR [#1520](https://github.com/IDuxFE/idux/pull/1520) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
-5. 💪 Opened PR [#1519](https://github.com/IDuxFE/idux/pull/1519) in [IDuxFE/idux](https://github.com/IDuxFE/idux)
+1. 💪 Opened PR [#6](https://github.com/kovsu/idux-charts/pull/6) in [kovsu/idux-charts](https://github.com/kovsu/idux-charts)
+2. ❌ Closed PR [#5](https://github.com/kovsu/idux-charts/pull/5) in [kovsu/idux-charts](https://github.com/kovsu/idux-charts)
+3. 💪 Opened PR [#5](https://github.com/kovsu/idux-charts/pull/5) in [kovsu/idux-charts](https://github.com/kovsu/idux-charts)
+4. ❌ Closed PR [#4](https://github.com/kovsu/idux-charts/pull/4) in [kovsu/idux-charts](https://github.com/kovsu/idux-charts)
+5. 💪 Opened PR [#4](https://github.com/kovsu/idux-charts/pull/4) in [kovsu/idux-charts](https://github.com/kovsu/idux-charts)
 <!--END_SECTION:activity-->
 
 
