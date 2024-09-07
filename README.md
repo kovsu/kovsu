@@ -9,3 +9,5 @@
   <img alt="parrots" src="./parrots/wave8parrot.gif" />
   <img alt="parrots" src="./parrots/wave9parrot.gif" />
 </p>
+
+[![kovsu's GitHub | Topics Over Time](https://stats.quira.sh/kovsu/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kovsu)
